@@ -1,5 +1,5 @@
 # UI-Design
-A collection of all of my UI Design portfolio in chronological order.
+A collection of all of my UI Design portfolio in chronological order. All assets are uploaded in a resolution of 1024px or smaller, regardless of the source quality.
 
 ## Rights & Licensing
 
@@ -9,4 +9,4 @@ A collection of all of my UI Design portfolio in chronological order.
 2. **Personal Work (`/Personal Designs/`)**
    <br>&emsp;Licensed Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. See [`Personal Designs/LICENSE.md`](./Personal%20Designs/LICENSE.md).
 
-Please respect these terms when forking, sharing, or embedding any of these assets.
+Please be sure to respect these terms when forking, sharing, or embedding any of these assets.
