@@ -1,5 +1,5 @@
-# UI-Design
-A collection of all of my UI Design portfolio in reverse chronological order. All assets are uploaded in a resolution of 1024px or smaller, regardless of the source quality.
+# Design & Video Editing
+A collection of all of my design and editing portfolio in reverse chronological order. All assets are uploaded in a resolution of 1024px or smaller, regardless of the source quality.
 
 ## Rights & Licensing
 
