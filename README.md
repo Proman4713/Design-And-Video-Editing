@@ -12,6 +12,9 @@ A collection of all of my design and editing portfolio in reverse chronological 
 Please be sure to respect these terms when forking, sharing, or embedding any of these assets.
 
 ## Assets
+### Videos on my YouTube channel, [Codeswallop](https://youtube.com/@lots_of_codeswallop)
+*Made in Davinci Resolve Free edition*
+
 ### Minecraft-ified "Wizarding World" Minecraft Mod Logo
 <img src="./Personal Designs/TheWizardingWorldModLogo_Minecraftified 1024px.png" alt="Wizarding World Minecraftified mod logo" width="200px" />
 
