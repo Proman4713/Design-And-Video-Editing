@@ -5,7 +5,7 @@ A collection of all of my design and editing portfolio in reverse chronological 
 ### On the 7th of June, 2025, I changed the Personal Designs license to be under my real name (Aaser Mohammed) instead of my online username (Proman4713). This transparency header will stay present for 2 weeks after this date.
 
 1. **Client Work (`/Client Designs/`)**
-   <br>&emsp;Each individual asset is licensed in accordance with client rights. See [`Client Designs/licenses/`](./Client%20Designs/licenses/). Each license is named with a [glob pattern](https://code.visualstudio.com/docs/editor/glob-patterns) referencing the file(s) that it affects.
+   <br>&emsp;Each individual asset is licensed in accordance with client rights. See [`Client Designs/licenses/`](./Client%20Designs/licenses/). Each license is named with a [glob pattern](https://code.visualstudio.com/docs/editor/glob-patterns) referencing the file(s) that it affects, starting from the root of the [`Client Designs/`](./Client%20Designs/) directory.
 
 2. **Personal Work (`/Personal Designs/`)**
    <br>&emsp;Licensed Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. See [`Personal Designs/LICENSE.md`](./Personal%20Designs/LICENSE.md).
@@ -16,8 +16,18 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 ### Videos on my YouTube channel, [Codeswallop](https://youtube.com/@lots_of_codeswallop)
 *Made in Davinci Resolve Free edition, licensed independently by YouTube*
 
+### Lockup for "Minecraft DevTools" application
+<img src="./Client Designs/MCDT-Lockup-1024px_Invis.png" alt="Minecraft DevTools lockup" width="200px" />
+
+*Made in Figma for the [Minecraft DevTools](https://mcmodplanner.com) application as a lockup*
+
+### Logo for "Minecraft DevTools" application
+<img src="./Client Designs/MCDT-1024px_Circle.png" alt="Minecraft DevTools logo" width="256px" />
+
+*Made in Figma for the [Minecraft DevTools](https://mcmodplanner.com) application as a logo*
+
 ### Minecraft-ified "Wizarding World" Minecraft Mod Logo
-<img src="./Personal Designs/TheWizardingWorldModLogo_Minecraftified 1024px.png" alt="Wizarding World Minecraftified mod logo" width="200px" />
+<img src="./Personal Designs/TheWizardingWorldModLogo_Minecraftified 1024px.png" alt="Wizarding World Minecraftified mod logo" width="256px" />
 
 *Made in Figma for the [Wizarding World Mod](https://github.com/Proman4713/TheWizardingWorld) as a logo*
 
@@ -27,7 +37,7 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 *Made in GIMP for the [Wizarding World Mod](https://github.com/Proman4713/TheWizardingWorld) as an item texture*
 
 ### Old, 'smooth' "Wizarding World" Minecraft Mod logo
-<img src="./Personal Designs/OLD_TheWizardingWorldModLogo 1024px.png" alt="Wizarding World old mod logo" width="200px" />
+<img src="./Personal Designs/OLD_TheWizardingWorldModLogo 1024px.png" alt="Wizarding World old mod logo" width="256px" />
 
 *Made in Figma for the [Wizarding World Mod](https://github.com/Proman4713/TheWizardingWorld) as an early logo*
 
@@ -47,7 +57,7 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 *Made in Figma for my personal [redesign of AlMasa Egypt's website](https://almasa-crr-worker.mailworker.workers.dev/) as a lockup image*
 
 ### Mock logo for AlMasa Egypt
-<img src="./Personal Designs/Almasa-1024px.png" alt="AlMasa Egypt mock logo" width="200px" />
+<img src="./Personal Designs/Almasa-1024px.png" alt="AlMasa Egypt mock logo" width="256px" />
 
 *Made in Figma for my personal [redesign of AlMasa Egypt's website](https://almasa-crr-worker.mailworker.workers.dev/) as a logo*
 
