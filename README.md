@@ -5,7 +5,7 @@ A collection of all of my design and editing portfolio in reverse chronological 
 ### On the 7th of June, 2025, I changed the Personal Designs license to be under my real name (Aaser Mohammed) instead of my online username (Proman4713). This transparency header will stay present for 2 weeks after this date.
 
 1. **Client Work (`/Client Designs/`)**
-   <br>&emsp;Each individual asset is licensed in accordance with client rights. See [`Client Designs/licenses/`](./Client%20Designs/licenses/).
+   <br>&emsp;Each individual asset is licensed in accordance with client rights. See [`Client Designs/licenses/`](./Client%20Designs/licenses/). Each license is named with a [glob pattern](https://code.visualstudio.com/docs/editor/glob-patterns) referencing the file(s) that it affects.
 
 2. **Personal Work (`/Personal Designs/`)**
    <br>&emsp;Licensed Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. See [`Personal Designs/LICENSE.md`](./Personal%20Designs/LICENSE.md).
