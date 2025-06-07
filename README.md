@@ -14,7 +14,7 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 
 ## Assets
 ### Videos on my YouTube channel, [Codeswallop](https://youtube.com/@lots_of_codeswallop)
-*Made in Davinci Resolve Free edition*
+*Made in Davinci Resolve Free edition, licensed independently by YouTube*
 
 ### Minecraft-ified "Wizarding World" Minecraft Mod Logo
 <img src="./Personal Designs/TheWizardingWorldModLogo_Minecraftified 1024px.png" alt="Wizarding World Minecraftified mod logo" width="200px" />
