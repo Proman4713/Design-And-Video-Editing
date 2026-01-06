@@ -1,11 +1,10 @@
 # Design & Video Editing
-A collection of all of my design and editing portfolio in reverse chronological order. All assets are uploaded in a resolution of 1024px or smaller, regardless of the source quality.
+A collection of all of my design and editing portfolio in reverse chronological order. Most of these assets are uploaded in a resolution of 1024px or smaller, regardless of the source quality, and all of them are intentionally uploaded at a lower resolution than their source.
 
 ## Rights & Licensing
-### On the 7th of June, 2025, I changed the Personal Designs license to be under my real name (Aaser Mohammed) instead of my online username (Proman4713). This transparency header will stay present for 2 weeks after this date.
 
 1. **Client Work (`/Client Designs/`)**
-   <br>&emsp;Each individual asset is licensed in accordance with client rights. See [`Client Designs/licenses/`](./Client%20Designs/licenses/). Each license is named with a [glob pattern](https://code.visualstudio.com/docs/editor/glob-patterns) referencing the file(s) that it affects, starting from the root of the [`Client Designs/`](./Client%20Designs/) directory.
+   <br>&emsp;Each individual asset is licensed in accordance with client rights. See [`Client Designs/licenses/`](./Client%20Designs/licenses/). Each license is named with a [glob pattern](https://code.visualstudio.com/docs/editor/glob-patterns) that references the file(s) it affects, starting from the root of the [`Client Designs/`](./Client%20Designs/) directory.
 
 2. **Personal Work (`/Personal Designs/`)**
    <br>&emsp;Licensed Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. See [`Personal Designs/LICENSE.md`](./Personal%20Designs/LICENSE.md).
@@ -15,6 +14,28 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 ## Assets
 ### Videos on my YouTube channel, [Codeswallop](https://youtube.com/@lots_of_codeswallop)
 *Made in Davinci Resolve Free edition, licensed independently by YouTube*
+
+### Accumulative Law Revision page design for "Math Falta" educational group
+<img src="./Personal Designs/Accumulative Laws Page 1 1445p.png" alt="Accumulative Laws Page 1" height="289px" />
+<img src="./Personal Designs/Accumulative Laws Page 2 1445p.png" alt="Accumulative Laws Page 2" height="289px" />
+<img src="./Personal Designs/Accumulative Laws Page 3 1445p.png" alt="Accumulative Laws Page 3" height="289px" />
+<img src="./Personal Designs/Accumulative Laws Page 4 1445p.png" alt="Accumulative Laws Page 4" height="289px" />
+<img src="./Personal Designs/Accumulative Laws Page 5 1445p.png" alt="Accumulative Laws Page 5" height="289px" />
+<img src="./Personal Designs/Accumulative Laws Page 6 1445p.png" alt="Accumulative Laws Page 6" height="289px" />
+
+*Designed in Figma using Figma components and auto layout groups to standardise design and spacing*
+
+### Textbook Cover for "Math Falta" educational group
+<img src="./Personal Designs/MathFalta-1445p_StandardCover.png" alt="Math Falta Textbook cover" height="289px" />
+
+*Made in Figma for my personal redesign of Math Falta's textbook design as a cover art*
+
+### Logo set for "Math Falta" educational group
+<img src="./Personal Designs/MathFalta-540p_Text.png" alt="Math Falta logo" height="270px" />
+<img src="./Personal Designs/MathFalta-540p_TextLockup.png" alt="Math Falta lockup" height="270px" />
+<img src="./Personal Designs/MathFalta-960p_TextIcon.png" alt="Math Falta icon" height="240px" />
+
+*Made in Figma for my personal redesign of Math Falta's branding as an asset kit*
 
 ### Lockup for "Minecraft DevTools" application
 <img src="./Client Designs/MCDT-Lockup-1024px_Invis.png" alt="Minecraft DevTools lockup" width="200px" />
