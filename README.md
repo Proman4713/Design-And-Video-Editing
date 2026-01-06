@@ -25,6 +25,11 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 
 *Designed in Figma using Figma components and auto layout groups to standardise design and spacing*
 
+### Logo for "HALIENS Season 0: It All Begins" video game
+<img src="./Personal Designs/HALIENS S0-960px.png" alt="Math Falta Textbook cover" height="240px" />
+
+*Unlike Season 1, this season's logo is made fully by me. Made in Figma for my personal video game project as a logo*
+
 ### Textbook Cover for "Math Falta" educational group
 <img src="./Personal Designs/MathFalta-1445p_StandardCover.png" alt="Math Falta Textbook cover" height="289px" />
 
