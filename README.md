@@ -37,6 +37,14 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 
 *Made in Figma for my personal redesign of Math Falta's branding as an asset kit*
 
+### Mawjood Facebook post designs
+<img src="./Personal Designs/Mawjood-1200p_FB DYK.png" alt="Mawjood Did You Know post design" height="240px" />
+<img src="./Personal Designs/Mawjood-314p_FB FT.png" alt="Mawjood New Feature post design" height="314px" />
+<img src="./Personal Designs/Mawjood-540p_FB TS.png" alt="Mawjood Testimonial post design" height="270px" />
+<img src="./Personal Designs/Mawjood-960p_FB QA.png" alt="Mawjood QA post design" height="240px" />
+
+*Made in Figma for Mawjood's [Facebook Page](https://www.facebook.com/mawjoodEdu) as post designs*
+
 ### Lockup for "Minecraft DevTools" application
 <img src="./Client Designs/MCDT-Lockup-1024px_Invis.png" alt="Minecraft DevTools lockup" width="200px" />
 
