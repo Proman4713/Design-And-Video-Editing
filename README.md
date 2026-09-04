@@ -16,20 +16,20 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 *Made in Davinci Resolve Free edition, licensed independently by YouTube*
 
 ### [Utile OS](https://utile-os-web.mailworker.workers.dev/) Brand Assets (licensed independently)
-<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Transparent Logo.svg" alt="Utile OS Logo" height="512px" />
-<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Strict Lockup.svg" alt="Utile OS Lockup" height="512px" />
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Transparent Logo.svg" alt="Utile OS Logo" height="128px" />
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Strict Lockup.svg" alt="Utile OS Lockup" height="128px" />
 <figure>
-   <img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Boot Spinner.svg" alt="Utile OS Boot Spinner" height="512px" />
+   <img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Boot Spinner.svg" alt="Utile OS Boot Spinner" height="128px" />
    <figcaption>Utile OS boot spinner.</figcaption>
 </figure>
-<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Symbol.svg" alt="Utile OS Symbol" height="512px" />
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Symbol.svg" alt="Utile OS Symbol" height="128px" />
 
 *Entirely made in Figma for Utile OS — licensed with [Utile OS's media license](https://github.com/Proman4713/Utile-OS/blob/main/resources/LICENSE.md)*
 
 ### AM Logos and assets
 <img src="./Personal Designs/AM Logo_Invis-960px.png" alt="AM invisible logo" height="240px" />
 <img src="./Personal Designs/AM Stamp-960px.png" alt="AM stamp" height="240px" />
-<img src="./Personal Designs/AM Lockup_Invis-Logomark-480px.png" alt="AM logomark" height="240px" />
+<img src="./Personal Designs/AM Lockup_Invis-Logomark-480px.png" alt="AM logomark" height="120px" />
 
 *Made in Figma using multiple subtraction groups for a personal project*
 
