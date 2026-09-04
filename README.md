@@ -39,7 +39,7 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 
 *Made entirely in Figma for Utile OS — licensed with [Utile OS's media license](https://github.com/Proman4713/Utile-OS/blob/main/resources/LICENSE.md)*
 
-### [Utile OS](https://utile-os-web.mailworker.workers.dev/) design concepts & wallpapers (licensed independently)
+### [Utile OS](https://utile-os-web.mailworker.workers.dev/) wallpapers (licensed independently)
 <img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile Abstract Assembly arm64 Wallpaper Bright.png" alt="Utile OS Abstract Assembly ARM64 Bright Wallpaper" height="480px" />
 <img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile Abstract Assembly arm64 Wallpaper Dark.png" alt="Utile OS Abstract Assembly ARM64 Dark Wallpaper" height="480px" />
 <img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile Abstract Assembly x86_64 Wallpaper Bright.png" alt="Utile OS Abstract Assembly AMD64 Bright Wallpaper" height="480px" />
@@ -50,6 +50,12 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 <img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile OS Artistic Wallpaper Dark.png" alt="Utile OS Artistic Dark Wallpaper" height="480px" />
 
 *Made entirely in Figma for Utile OS — licensed with [Utile OS's media license](https://github.com/Proman4713/Utile-OS/blob/main/resources/LICENSE.md)*
+
+### [Utile OS](https://utile-os-web.mailworker.workers.dev/) design concepts
+<img src="./Personal Designs/Settings App Demo 1 Light 720p.png" alt="Utile OS Settings window demo 1 in light mode" height="360px" />
+<img src="./Personal Designs/Settings App Demo 1 Dark 720p.png" alt="Utile OS Settings window demo 1 in dark mode" height="360px" />
+
+*Made entirely in Figma for roughly what Utile OS could ideally be*
 
 ### AM Logos and assets
 <img src="./Personal Designs/AM Logo_Invis-960px.png" alt="AM invisible logo" height="240px" />
