@@ -13,18 +13,43 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 
 ## Assets
 ### Videos on my YouTube channel, [Codeswallop](https://youtube.com/@lots_of_codeswallop)
-*Made in Davinci Resolve Free edition, licensed independently by YouTube*
+*Made in DaVinci Resolve Free edition, licensed independently by YouTube*
+
+### [Utile OS](https://utile-os-web.mailworker.workers.dev/) App Icons (licensed independently)
+<figure>
+   <img src="https://raw.githubusercontent.com/Proman4713/Utile-Music/refs/heads/master/data/icons/hicolor/scalable/apps/app.svg" alt="Utile Music Logo" height="104px" />
+   <figcaption><i>Based on the <a href="https://github.com/ubuntu/yaru/blob/master/icons/Yaru/256x256%402x/apps/music-app.png">Yaru <code>music-app</code> icon</a>. Licensed <a href="https://raw.githubusercontent.com/Proman4713/Utile-Music/refs/heads/master/debian/copyright">CC BY-SA 4.0</a></i></figcaption>
+</figure>
+<figure>
+   <img src="https://raw.githubusercontent.com/Proman4713/utile-calamares-settings/refs/heads/utile/abstract/utile/utile-installer.svg" />
+   <figcaption><i>For the currently unused Utile OS Calamares installer icon. Licensed <a href="https://raw.githubusercontent.com/Proman4713/utile-calamares-settings/refs/heads/utile/abstract/debian/copyright">CC BY-NC-ND 4.0</a></i></figcaption>
+</figure>
+
+ \
+*Made entirely in Figma for Utile OS*
 
 ### [Utile OS](https://utile-os-web.mailworker.workers.dev/) Brand Assets (licensed independently)
 <img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Transparent Logo.svg" alt="Utile OS Logo" height="128px" />
 <img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Strict Lockup.svg" alt="Utile OS Lockup" height="128px" />
 <figure>
    <img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Boot Spinner.svg" alt="Utile OS Boot Spinner" height="128px" />
-   <figcaption>Utile OS boot spinner.</figcaption>
+   <figcaption><i>Utile OS boot spinner.</i></figcaption>
 </figure>
 <img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/Utile Symbol.svg" alt="Utile OS Symbol" height="128px" />
 
-*Entirely made in Figma for Utile OS — licensed with [Utile OS's media license](https://github.com/Proman4713/Utile-OS/blob/main/resources/LICENSE.md)*
+*Made entirely in Figma for Utile OS — licensed with [Utile OS's media license](https://github.com/Proman4713/Utile-OS/blob/main/resources/LICENSE.md)*
+
+### [Utile OS](https://utile-os-web.mailworker.workers.dev/) design concepts & wallpapers (licensed independently)
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile Abstract Assembly arm64 Wallpaper Bright.png" alt="Utile OS Abstract Assembly ARM64 Bright Wallpaper" height="480px" />
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile Abstract Assembly arm64 Wallpaper Dark.png" alt="Utile OS Abstract Assembly ARM64 Dark Wallpaper" height="480px" />
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile Abstract Assembly x86_64 Wallpaper Bright.png" alt="Utile OS Abstract Assembly AMD64 Bright Wallpaper" height="480px" />
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile Abstract Assembly x86_64 Wallpaper Dark.png" alt="Utile OS Abstract Assembly AMD64 Dark Wallpaper" height="480px" />
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile Bright Wallpaper.png" alt="Utile OS Bright Wallpaper" height="480px" />
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile Dark Wallpaper.png" alt="Utile OS Dark Wallpaper" height="480px" />
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile OS Artistic Wallpaper Bright.png" alt="Utile OS Artistic Bright Wallpaper" height="480px" />
+<img src="https://raw.githubusercontent.com/Proman4713/Utile-OS/refs/heads/main/resources/media/Utile OS Artistic Wallpaper Dark.png" alt="Utile OS Artistic Dark Wallpaper" height="480px" />
+
+*Made entirely in Figma for Utile OS — licensed with [Utile OS's media license](https://github.com/Proman4713/Utile-OS/blob/main/resources/LICENSE.md)*
 
 ### AM Logos and assets
 <img src="./Personal Designs/AM Logo_Invis-960px.png" alt="AM invisible logo" height="240px" />
