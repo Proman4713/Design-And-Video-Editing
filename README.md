@@ -15,6 +15,13 @@ Please be sure to respect these terms when forking, sharing, or embedding any of
 ### Videos on my YouTube channel, [Codeswallop](https://youtube.com/@lots_of_codeswallop)
 *Made in Davinci Resolve Free edition, licensed independently by YouTube*
 
+### AM Logos and assets
+<img src="./Personal Designs/AM Logo_Invis-960px.png" alt="AM invisible logo" height="240px" />
+<img src="./Personal Designs/AM Stamp-960px.png" alt="AM stamp" height="240px" />
+<img src="./Personal Designs/AM Lockup_Invis-Logomark-480px.png" alt="AM logomark" height="240px" />
+
+*Made in Figma using multiple subtraction groups for a personal project*
+
 ### Accumulative Law Revision page design for "Math Falta" educational group
 <img src="./Personal Designs/Accumulative Laws Page 1 1445p.png" alt="Accumulative Laws Page 1" height="289px" />
 <img src="./Personal Designs/Accumulative Laws Page 2 1445p.png" alt="Accumulative Laws Page 2" height="289px" />
