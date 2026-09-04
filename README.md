@@ -4,10 +4,10 @@ A collection of all of my design and editing portfolio in reverse chronological 
 ## Rights & Licensing
 
 1. **Client Work (`/Client Designs/`)**
-   <br>&emsp;Each individual asset is licensed in accordance with client rights. See [`Client Designs/licenses/`](./Client%20Designs/licenses/). Each license is named with a [glob pattern](https://code.visualstudio.com/docs/editor/glob-patterns) that references the file(s) it affects, starting from the root of the [`Client Designs/`](./Client%20Designs/) directory.
+   <br>&emsp;Each asset is licensed in accordance with client rights. See [`Client Designs/licenses/`](./Client%20Designs/licenses/). Each license is named with a [glob pattern](https://code.visualstudio.com/docs/editor/glob-patterns) that references the file(s) it affects, starting from the root of the [`Client Designs/`](./Client%20Designs/) directory.
 
 2. **Personal Work (`/Personal Designs/`)**
-   <br>&emsp;Licensed Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. See [`Personal Designs/LICENSE.md`](./Personal%20Designs/LICENSE.md).
+   <br>&emsp;<b>All Rights Reserved.</b> See [`Personal Designs/LICENSE.md`](./Personal%20Designs/LICENSE.md). <i>The license was changed from CC BY-NC-ND 4.0 to All Rights Reserved on 4 Sep. 2026. Any copies of these files obtained on or after this date are strictly subject to All Rights Reserved terms.</i>
 
 Please be sure to respect these terms when forking, sharing, or embedding any of these assets.
 
